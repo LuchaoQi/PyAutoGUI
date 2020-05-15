@@ -1,1 +1,6 @@
-# PyAutoGUI
+[解放双手！用 Python 控制你的鼠标和键盘](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247490138&idx=1&sn=e665ab10ba38d7e2fca7045171778b13&chksm=fad46d57cda3e441e65e3f1e1dd9d233d69ab70e20e9cb0624cddc5469002c0741a0f43dd868&mpshare=1&scene=1&srcid=&sharer_sharetime=1589501838239&sharer_shareid=54d7b6bf73b347d381a7bff3f78b99d1&key=eb7a7426023a1db36aaaaa6d472b8c21d2a090536cf42c59904d625744cd0c1adfa9872301d97ac123273a59ca10cfe5b3a64bf3b21882ff15e32bda79a3db34942291181dbb00a584258033083f5851&ascene=1&uin=NzA3NTE3MTMz&devicetype=Windows+10&version=62080085&lang=en&exportkey=A0jrAGRtYtEjW3XZlVjzM%2FM%3D&pass_ticket=QBTUfHR2FexCE4ltJH8xYJciRb3H5GpzwKyT4WaqX8GZXJonZCA5TwjM50A%2BBKWT)
+
+
+
+https://github.com/asweigart/pyautogui
+
